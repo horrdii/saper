@@ -1,0 +1,4 @@
+﻿  Field.cpp
+c:\teaching\c++\saper\saper\classes\field.cpp(91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\teaching\c++\saper\saper\classes\field.cpp(92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  saper.vcxproj -> C:\Teaching\C++\saper\Debug\saper.exe
